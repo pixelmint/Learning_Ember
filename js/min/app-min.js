@@ -1,1 +1,1 @@
-App=Ember.Application.create();
+var App=Ember.Application.create({LOG_TRANSITIONS:!0});
